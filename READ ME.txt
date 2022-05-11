@@ -1,3 +1,5 @@
+!!!PLEASE IGNORE THE .gitignore FILE!!!
+
 Before down loading please download 
 
 The latest version of Python:
