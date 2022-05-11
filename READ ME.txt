@@ -1,0 +1,16 @@
+Before down loading please download 
+
+The latest version of Python:
+https://www.python.org/
+
+The latest version of the community version of PyCharms form Jetbrains:
+https://www.jetbrains.com/pycharm/
+
+Once installed, open Pycharms as admin and install Django using the terminal.
+
+1. Open terminal
+2. Install Django by typing in > pip install django==2.1.5
+3. Once installed you should be able to run the website via local host with the address of http://127.0.0.1:8000
+
+If you want to mess with the website via admin:
+http://127.0.0.1:8000/admin/ (user:nazadmin pass:1234)
