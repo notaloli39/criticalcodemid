@@ -15,5 +15,7 @@ Once installed, open Pycharms as admin and install Django using the terminal.
 3. Download and place the file within your PyCharms directory (C:\Users\name\PycharmProjects)
 4. Once installed you should be able to run the website via local host with the address of http://127.0.0.1:8000
 
+MAIN PAGE IS http://127.0.0.1:8000/all_products
+
 If you want to mess with the website via admin:
 http://127.0.0.1:8000/admin/ (user:nazadmin pass:1234)
